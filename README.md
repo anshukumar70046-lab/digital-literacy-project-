@@ -2,9 +2,9 @@
 # Digital Literacy Project
 
 ## Student Details
-- Name: Annant Pundir
-- Registration Number: 25BCY10113  
-- Branch: CSE-Cybersecurity
+- Name: Anshu Kumar
+- Registration Number: 25BHI10040
+- Branch: CSE-(HI)
 - Year: 1st Year(2025-batch) 
 
 ---
